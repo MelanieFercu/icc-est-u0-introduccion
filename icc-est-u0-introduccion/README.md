@@ -2,8 +2,6 @@
 
 Integantes:
 - Melanie Barzallo
-- Fernanda Cueva 
-
 
 ## Practica 1
 Fecha 06 de octubre
